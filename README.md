@@ -23,7 +23,6 @@
 ---
 
 ### More About Me
-<!--
 <div align="bottom">
   <ul>
     <li> Though Im only 17 I have knowledge of Calc 2 math </li>
@@ -33,4 +32,3 @@
     <li> My main three languages are English, Spanish, and German. Though I do now some Latin, French, and russian </li>
   </ul>
 </div>
--->
