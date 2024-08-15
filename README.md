@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> I'm Sphy, I'm a half time programmer being more involved in soldering and welding.</p>
+<p> I'm Sphy, I'm a half time programmer being more involved in soldering, welding, electronics, and pixel animations. Though I'm not planning to do CS, I would stil like to share my work but if you do decide to use some of stuff, pls add me a contributer. I dont mind if you used some of my work as long as I'm being mentioned.</p>
 
 #
 
