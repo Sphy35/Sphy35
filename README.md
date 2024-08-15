@@ -6,8 +6,9 @@
 
 
 ### Languages I know
-<div>
-  <img align="center" src="https://skillicons.dev/icons?i=java,js,html,css,cpp,py" alt="Icons" width="auto" height="auto">
+<div align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,py" alt="Icons">
 </div>
 
 
