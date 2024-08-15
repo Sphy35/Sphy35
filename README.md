@@ -6,7 +6,9 @@
 
 
 ### Languages I know
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,cpp,py,)](https://skillicons.dev)
+<div>
+  <img align="center" src="https://skillicons.dev/icons?i=java,js,html,css,cpp,py" alt="Icons">
+</div>
 
 
 #
