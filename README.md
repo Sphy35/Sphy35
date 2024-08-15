@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 #
 
-[![Sphy35's github stats](https://github-readme-stats.vercel.app/api?username=Sphy35)](https://github.com/Sphy35/github-readme-stats)
+[![Sphy35's github stats](https://github-readme-stats.vercel.app/api?username=Sphy35&show_icons=true&theme=nightowl)](https://github.com/Sphy35/github-readme-stats)
