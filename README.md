@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 #
 
 [![Sphy35's github stats](https://github-readme-stats.vercel.app/api?username=Sphy35&show_icons=true&theme=nightowl)](https://github.com/Sphy35/github-readme-stats)
-[![Sphy35' github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphy35&layout=compact&theme=nightwol)](https://github.com/Sphy35)
+[![Sphy35' github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphy35&layout=compact&theme=nightowl)](https://github.com/Sphy35)
