@@ -4,14 +4,12 @@
 
 #
 
-
 ### Languages I know
 <div align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,py" alt="Icons"/>
   </a>
 </div>
-
 
 #
 
@@ -21,11 +19,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphy35&layout=compact&theme=nightowl" alt="Profile Stats" width=450px height=250px>
 </div>
 
+#
 
----
-
-
-## More About Me
+### More About Me
 <div>
   <p>
     * Though Im only 17 I have knowledge of Calc 2 math
