@@ -28,6 +28,10 @@
 ## More About Me
 <div>
   <p>
-    
+    * Though Im only 17 I have knowledge of Calc 2 math
+    * I practice classical guitar
+    * I used to be a math tutor for a college
+    * Got 25th place in a hackathon in my Freshman Year
+    * My main three languages are English, Spanish, and German. Though I do now some Latin, French, and russian
   </p>
 </div>
