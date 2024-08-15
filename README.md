@@ -13,7 +13,7 @@
 ---
 
 ### My Stats
-<div >
+<div align="center">
   <a>
     <img align="left_top" src="https://github-readme-stats.vercel.app/api?username=Sphy35&show_icons=true&theme=nightowl" alt="Profile Stats" width=410px height=250px/> 
     <img align="right_bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphy35&layout=compact&theme=nightowl" alt="Profile Stats" width=410px/>
