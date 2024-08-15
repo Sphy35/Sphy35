@@ -25,7 +25,7 @@
 ### More About Me
 <div align="bottom">
   <ul>
-    <li> Though Im only 17 I have knowledge of Calc 2 math </li>
+    <li> Though Im only 17 my math level is Calc 2 </li>
     <li> I practice classical guitar </li>
     <li> I used to be a math tutor for a college </li>
     <li> Got 25th place in a hackathon in my Freshman Year </li>
