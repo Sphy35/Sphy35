@@ -21,7 +21,7 @@
 ---
 
 ### More About Me
-<div>
+<div align="bottom">
   <ul>
     <li> Though Im only 17 I have knowledge of Calc 2 math </li>
     <li> I practice classical guitar </li>
