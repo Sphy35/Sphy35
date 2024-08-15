@@ -5,5 +5,5 @@
 #
 
 <div>
-  <img align="left" src="[![Sphy35's github stats](https://github-readme-stats.vercel.app/api?username=Sphy35&show_icons=true&theme=nightowl)](https://github.com/Sphy35/github-readme-stats)" alt="Profile Stats">
+  <img align="left" src="[![Sphy35's github stats](https://github-readme-stats.vercel.app/api?username=Sphy35&show_icons=true&theme=nightowl)]" alt="Profile Stats">
 </div>
