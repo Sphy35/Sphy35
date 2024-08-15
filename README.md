@@ -5,7 +5,7 @@
 #
 
 
-## Languages I know
+### Languages I know
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,cpp,py,)](https://skillicons.dev)
 
 
