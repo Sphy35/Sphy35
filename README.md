@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p> I'm Sphy35, I'm a half time programmer being more involved in soldering and welding.</p>
+<p> I'm Sphy, I'm a half time programmer being more involved in soldering and welding.</p>
 
 #
 
