@@ -7,7 +7,7 @@
 
 ### Languages I know
 <div>
-  <img align="center" src="https://skillicons.dev/icons?i=java,js,html,css,cpp,py" alt="Icons">
+  <img align="center" src="https://skillicons.dev/icons?i=java,js,html,css,cpp,py" alt="Icons" width="auto" height="auto">
 </div>
 
 
