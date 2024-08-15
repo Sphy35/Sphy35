@@ -29,6 +29,6 @@
     <li> I practice classical guitar </li>
     <li> I used to be a math tutor for a college </li>
     <li> Got 25th place in a hackathon in my Freshman Year </li>
-    <li> My main three languages are English, Spanish, and German. Though I do now some Latin, French, and russian </li>
+    <li> My main three languages are English, Spanish, and German. Though I do know some Latin, French, and russian </li>
   </ul>
 </div>
